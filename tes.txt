@@ -1,0 +1,7 @@
+Baris pertama
+<<<<<<< HEAD
+Baris kedua ABC
+=======
+Baris kedua
+Baris ketiga
+>>>>>>> master
